@@ -1,5 +1,35 @@
 # v2rayNG
 
+
+iOS SSR客户端 ShadowRocket（小火箭）GFWList规则
+ShadowRocket的GFWlist规则，我们下面也提供两个版本：GFWList规则、GFWList+去广告规则，按需选择其中之一。
+
+ShadowRocket GFWList规则下载地址：
+
+GFWList规则：
+
+https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist.conf
+
+对应二维码：
+
+GFWList PAC/ACL规则文件各平台下载汇总 Shadowsocksr智能翻墙
+
+ 
+
+GFWList+去广告规则：
+
+https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist_ad.conf
+
+对应二维码：
+
+GFWList PAC/ACL规则文件各平台下载汇总 Shadowsocksr智能翻墙
+
+使用方法：
+
+
+
+
+
 A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core)
 
 [![API](https://img.shields.io/badge/API-17%2B-yellow.svg?style=flat)](https://developer.android.com/about/versions/jelly-bean#android-4.2)
